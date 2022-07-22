@@ -1,0 +1,29 @@
+.container-cartao{
+    margin: 15px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    width: 80%;
+    align-items: center;
+}
+
+.cartao{
+    height: 150px;
+    width: 300px;
+    background-color: #580109;
+    border-radius: 10px;
+    color: white;
+    padding: 8px;
+}
+
+.cartao h3 {
+    font-weight: 800;
+}
+
+.titulo{
+    padding-top: 15px;
+    text-align: center;
+    color: #580109;
+    font-size: 48px;
+}
